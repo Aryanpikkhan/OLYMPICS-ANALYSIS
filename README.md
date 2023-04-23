@@ -6,6 +6,6 @@ I have use pychram to run python file and use this framework to run all my pytho
 This website give brief analysis of the sports played in the olypics and country analysis.
 
 ![Screenshot (583)](https://user-images.githubusercontent.com/97041159/233845831-26344888-41f6-4c91-849d-00d693ec0468.png)
-![![Screenshot (584)](https://user-images.githubusercontent.com/97041159/233845939-6a7dfbad-b665-4a94-b683-d72bcdc42742.png)
+![Screenshot (584)](https://user-images.githubusercontent.com/97041159/233845939-6a7dfbad-b665-4a94-b683-d72bcdc42742.png)
 ![Screenshot (584)](https://user-images.githubusercontent.com/97041159/233845972-44e22858-737a-4b8c-94f5-58394062d320.png)
 
